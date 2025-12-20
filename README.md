@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudanthara&label=Profile%20views&color=0e75b6&style=flat" alt="yudanthara" /> </p>
 
-- 🔭 I’m currently working on *Project Name: Belajar Python & Belajar CSharp*
+- 🔭 I’m currently working on *Belajar Python & Belajar CSharp*
 
 - 🌱 I’m currently learning *Python, HTML, CSS, C#, Git*
 
-- 🤝 I’m looking for help with *Project Name: Understanding JavaScript & C#*
+- 🤝 I’m looking for help with *Understanding JavaScript & C#*
 
 - 💬 Ask me about *Tech, Wuthering Waves builds, HSR lore, Light Novels, or Comics recommendations*
 

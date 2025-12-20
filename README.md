@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yudanthara&label=Profile%20views&color=0e75b6&style=flat" alt="yudanthara" /> </p>
 
-- 🔭 I’m currently working on *Belajar Python & Belajar CSharp*
+- 🔭 I’m currently working on *mastering Python & C# fundamentals*
 
-- 🌱 I’m currently learning *Python, HTML, CSS, C#, Git*
+- 🌱 I’m currently learning *Python, HTML, CSS, C#, and Git*
 
-- 🤝 I’m looking for help with *Understanding JavaScript & C#*
+- 🤝 I’m looking for help with *understanding logic in JavaScript & C#*
 
-- 💬 Ask me about *Tech, Wuthering Waves builds, HSR lore, Light Novels, or Comics recommendations*
+- 💬 Ask me about *Tech, Wuthering Waves builds, HSR Lore, or Light Novel recommendations*
 
-- ⚡ Fun fact *Gacha player who tries to code.*
+- ⚡ Fun fact: *A Gacha gamer who is learning to code.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
